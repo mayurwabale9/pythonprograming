@@ -85,4 +85,7 @@ if string == string1:
 
 else:
     print(f"{string} is not a palindrome")
-# %%
+
+marks=input("enter your marks")
+
+if= 
